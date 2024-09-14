@@ -2,7 +2,7 @@
     "name": "react-ts-template",
     "private": true,
     "version": "1.0.0",
-    "homepage": "https://nicoten.github.io/test-deploy-nicoten",
+    "homepage": "https://hes-e39.github.io/test-deploy-nicoten",
     "type": "module",
     "scripts": {
         "dev": "vite",
